@@ -1,5 +1,5 @@
 # mtk-su
-
+![](mtk.jpg)
 Jadi bukan rahasia besar yang belum lama ini, saya menemukan cara untuk mencapai root sementara pada chipset MediaTek. Tidak diperlukan solusi root atau unlock perangkat yang sudah diinstal sebelumnya. Alat yang saya buat, MTK-SU, mengambil keuntungan dari kelemahan dalam desain perangkat lunak Mediatek. Awalnya ditujukan untuk membantu pemilik Amazon Fire HD dengan mudah melakukan root dan membuka kunci tablet mereka. (Tanpa itu, sebagian besar model memerlukan mod perangkat keras untuk mencapai root & unlock. Alat ini membuat rooting dapat diakses berkali-kali lipat dari jumlah pemilik. Ini juga memungkinkan untuk me-root Fire TV gen 2.) Tapi cerita lucu: metode ini sebenarnya bekerja pada hampir semua chip 64-bit MediaTek. Banyak perangkat dari berbagai vendor telah dikonfirmasi.
 
 Jadi kalau tidak jelas, apa yang dilakukan mtk-su adalah memberi Anda shell root untuk dilakukan sesuka Anda. Ini seperti menjalankan 'su', tetapi tanpa perlu menginstal su. Itu mungkin cawan suci untuk perangkat yang terkunci. Pada beberapa perangkat, dimungkinkan untuk menginstal pengelola root untuk root permanen menggunakan mtk-su sebagai loncatan.
